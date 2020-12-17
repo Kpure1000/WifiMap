@@ -1,0 +1,2 @@
+include ':wifimap2'
+rootProject.name='WifiMap'
